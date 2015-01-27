@@ -63,3 +63,5 @@ demethodize = function(method) {
 }
 
 console.log(demethodize(Number.prototype.add)(5,6))
+
+
